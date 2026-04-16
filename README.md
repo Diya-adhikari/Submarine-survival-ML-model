@@ -1,6 +1,8 @@
 # Submarine-survival-ML-model
 A beginner-friendly machine learning notebook comparing Logistic Regression and Random Forest on survival prediction. Includes confusion matrix visualizations and performance metrics.
+
 Table of Contents¶
+
 Step 1: Load and Explore Data
 We begin by importing the submarine survival dataset...
 
