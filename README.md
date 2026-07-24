@@ -37,3 +37,58 @@ We summarize performance metrics for both models...
 
 
 
+--
+
+# 📊 Model Evaluation Report
+
+This report compares the performance of **Logistic Regression** and **Random Forest** classifiers on the same dataset.
+
+---
+
+## ✅ Logistic Regression
+- **Accuracy:** 0.63  
+
+### Classification Report
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     | 0.59      | 0.53   | 0.56     | 88      |
+| 1     | 0.66      | 0.71   | 0.68     | 112     |
+
+**Overall Metrics:**
+- Accuracy: **0.63** (200 samples)  
+- Macro Avg: Precision 0.62, Recall 0.62, F1-score 0.62  
+- Weighted Avg: Precision 0.63, Recall 0.63, F1-score 0.63  
+
+---
+
+## 🌲 Random Forest
+- **Accuracy:** 0.565  
+
+### Classification Report
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     | 0.51      | 0.48   | 0.49     | 88      |
+| 1     | 0.61      | 0.63   | 0.62     | 112     |
+
+**Overall Metrics:**
+- Accuracy: **0.565** (200 samples)  
+- Macro Avg: Precision 0.56, Recall 0.56, F1-score 0.56  
+- Weighted Avg: Precision 0.56, Recall 0.56, F1-score 0.56  
+
+---
+
+## 📌 Key Insights
+- Logistic Regression **outperforms Random Forest** on this dataset.  
+- Both models predict **Class 1 better than Class 0**, but Logistic Regression achieves higher recall and precision.  
+- Dataset size: **200 samples** (88 in Class 0, 112 in Class 1).  
+- Random Forest may benefit from **hyperparameter tuning** or feature engineering.
+
+---
+
+
+
+<img width="1168" height="1134" alt="image" src="https://github.com/user-attachments/assets/e113d034-2be7-4857-87e6-6eef666d8500" />
+
+
+
+
