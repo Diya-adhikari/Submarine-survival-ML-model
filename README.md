@@ -2,6 +2,8 @@
 
 This repository contains a beginner-friendly machine learning model predicting submarine survival outcomes.  
 Originally developed and published on Kaggle: [View Notebook](https://www.kaggle.com/code/addiya/submarine-survival-beginner-ml-model).
+<img width="2270" height="952" alt="image" src="https://github.com/user-attachments/assets/5d91d635-fba2-4964-936b-a1cf887526bf" />
+
 
 
 A beginner-friendly machine learning notebook comparing Logistic Regression and Random Forest on survival prediction. Includes confusion matrix visualizations and performance metrics.
