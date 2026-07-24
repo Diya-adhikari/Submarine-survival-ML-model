@@ -25,6 +25,10 @@ We compare Logistic Regression and Random Forest...
 
 Step 4: Confusion Matrix and Prediction Analysis
 
+
+<img width="1774" height="1238" alt="image" src="https://github.com/user-attachments/assets/b38308c8-2089-4c86-b6ef-449d44668ff0" />
+
+
 We visualize classification performance for both models and interpret prediction outcomes...
 
 Step 5: Model Comparison
