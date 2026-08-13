@@ -81,7 +81,8 @@ This report compares the performance of **Logistic Regression** and **Random For
 
 # Dataset Link: https://www.kaggle.com/datasets/addiya/submarine-survival-dataset
 
-<img width="2270" height="952" alt="image" src="https://github.com/user-attachments/assets/5d91d635-fba2-4964-936b-a1cf887526bf" />
+ <img width="2277" height="1288" alt="image" src="https://github.com/user-attachments/assets/da3d9938-b077-44dd-ad35-257a132617a1" />
+
 
 
 <img width="1774" height="1238" alt="image" src="https://github.com/user-attachments/assets/5032659f-2d35-450f-9d00-a694080223a1" />
